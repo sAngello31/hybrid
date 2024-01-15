@@ -1,0 +1,7 @@
+{
+  "name": "Quotivador",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
